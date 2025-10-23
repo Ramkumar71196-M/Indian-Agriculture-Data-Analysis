@@ -1,10 +1,10 @@
-# 🌾 AgriData Explorer: Understanding Indian Agriculture through Data
+# 🌾 Indian-Agriculture-Data-Analysis: Understanding Indian Agriculture through Data
 
 ---
 
 ## 📘 Project Overview
 
-**AgriData Explorer** is a data-driven project that focuses on understanding Indian agricultural trends using **Python (EDA & SQL)** and **Power BI**.  
+**Indian-Agriculture-Data-Analysis** is a data-driven project that focuses on understanding Indian agricultural trends using **Python (EDA & SQL)** and **Power BI**.  
 The project provides insights into **crop production, yield, and area** across different Indian states, helping users and policymakers make **data-backed decisions**.
 
 ---
@@ -15,17 +15,16 @@ The project includes three main parts:
 
 ### 📂 Dataset Folder (`data/`)
 - Contains the agricultural dataset used for analysis.  
-  **Example file:** `agriculture_data.csv`
+  **Example file:** `agri_data.csv`
 
 ### 📓 Notebook Folder (`notebook/`)
 - Includes the Python analysis files with complete **EDA (Exploratory Data Analysis)**, **data cleaning**, and **SQL queries**.  
   **File:** `AgriData_Explorer.py`
 
 ### 📊 Power BI Folder (`powerbi/`)
-- Contains screenshots of the Power BI Dashboard showcasing **EDA and SQL-based insights visually**.  
-  **Example files:**
-  - `EDA_Dashboard.png`
-  - `SQL_Insights_Dashboard.png`
+Contains the final visualization assets.
+
+**Files:** Agri_data_sql.pbix **(Power BI Source File)** and PowerBI_Github.png **(Dashboard Screenshot)**
 
 ---
 
@@ -75,8 +74,7 @@ The project includes three main parts:
 ## 🌟 Project Highlights
 
 - ✅ Comprehensive EDA with clear visual patterns  
-- ✅ 15+ SQL Analytical Queries for deeper insights  
-- ✅ Two Power BI Dashboards:  
-  - One for **EDA-based insights**  
+- ✅ 10 SQL Analytical Queries for deeper insights  
+- ✅ Power BI Dashboards:    
   - One for **SQL-based insights**  
 - ✅ User-friendly visual storytelling with clean layout  

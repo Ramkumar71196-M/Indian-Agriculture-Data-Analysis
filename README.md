@@ -76,5 +76,5 @@ Contains the final visualization assets.
 - ✅ Comprehensive EDA with clear visual patterns  
 - ✅ 10 SQL Analytical Queries for deeper insights  
 - ✅ Power BI Dashboards:    
-  - One for **SQL-based insights**  
+  - **SQL-based insights**  
 - ✅ User-friendly visual storytelling with clean layout  
